@@ -1,0 +1,14 @@
+.body {
+    width: 100vw;
+    height: auto;
+}
+
+#main {
+    position: relative;
+    width: 600px;
+    height: 500px;
+    background-color: #56aed6;
+    margin-left: 300px;
+}
+
+
